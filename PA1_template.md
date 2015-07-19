@@ -3,7 +3,7 @@
 
 ## Loading and preprocessing the data
 ### 1. Load the Data
-We first download the The data for this assignment  **"Activity monitoring data"** from the course web site to our current working directory. Then,  we read the raw data from the `.zip` file into the data frame `data`.
+We first download the data for this assignment  **"Activity monitoring data"** from the course web site to our current working directory. Then,  we read the raw data from the `.zip` file into the data frame `data`.
 
 
 ```r
